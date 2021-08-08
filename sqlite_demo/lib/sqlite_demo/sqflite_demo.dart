@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:sqlite_demo/sqlite_demo/databaseHelper.dart';
 import 'package:sqlite_demo/sqlite_demo/grocery.dart';
 
-// https://learnflutterwithme.com/sqlite
-// https://www.youtube.com/watch?v=noi6aYsP7Go&t=3s
+// https://learnflutterwithme.com/sqlite             source code
+// https://www.youtube.com/watch?v=noi6aYsP7Go&t=3s  by: Learn Flutter with Me
 
 class SqfliteDemo extends StatefulWidget {
-  const SqfliteDemo({Key? key}) : super(key: key);
+  // const SqfliteDemo({Key? key}) : super(key: key);
 
   @override
   _SqfliteDemoState createState() => _SqfliteDemoState();
